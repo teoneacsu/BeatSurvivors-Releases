@@ -1,7 +1,9 @@
 # Beat Survivors
 
-Official Android and Windows downloads. Android is the first planned release.
+Official downloads. Android is available as an early test release; Windows follows later.
 
-No APK has been published yet. Packages will appear on the Releases page after device testing.
+[Download Android0.1.1 APK](https://github.com/teoneacsu/BeatSurvivors-Releases/releases/download/v0.1.1/BeatSurvivors-0.1.1.apk)
 
-Updates are initially downloaded and installed manually. Keep the existing app installed to preserve local progress; upgrade persistence will be verified before the first public release.
+[Release notes and SHA256](https://github.com/teoneacsu/BeatSurvivors-Releases/releases/tag/v0.1.1)
+
+Install over the existing release0.1.0 without uninstalling or clearing app data. Both use the same permanent signing certificate. Automatic updates are not enabled. Phone performance and upgrade persistence require testing; earlier debug APKs use a different signing key.
