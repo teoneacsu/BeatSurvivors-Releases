@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "application_id": "com.beatsurvivors.game",
-  "version_code": 14,
-  "version_name": "0.1.13",
+  "version_code": 15,
+  "version_name": "0.1.14",
   "size_bytes": 69348166,
-  "sha256": "fa764f53e01039cf7b951780ec51fd5b3d7bae203b06b91321e8af89c20083df",
+  "sha256": "6113a413d85f33568ad55d5b91c203f2bb850a8b9c26a07b000dab2e22971f40",
   "certificate_sha256": "161d8db60f71328f44b0bf4cf443040742becc685141945360238f56d1e22e3d",
-  "apk_url": "https://github.com/teoneacsu/BeatSurvivors-Releases/releases/download/v0.1.13/BeatSurvivors-0.1.13.apk"
+  "apk_url": "https://github.com/teoneacsu/BeatSurvivors-Releases/releases/download/v0.1.14/BeatSurvivors-0.1.14.apk"
 }
